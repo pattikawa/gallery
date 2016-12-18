@@ -1,0 +1,30 @@
+.hide-bullets {
+    list-style:none;
+    margin-left: -40px;
+    margin-top:20px;
+}
+
+.thumbnail {
+    padding: 3px;
+}
+
+#slider{
+        padding-top: 18px;
+    
+    
+}
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    width: 100%;
+}
+
+.jumbotron>.container{ height: 50px;
+}
+
+body{ background-color: #d5e0e0;
+}
+
+            
+            
+
+            
